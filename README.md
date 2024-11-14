@@ -37,3 +37,11 @@
 ![image](https://github.com/user-attachments/assets/af66fd81-4ead-40fc-8730-ce52ac1adfbb)
 # ejecutado
 ![image](https://github.com/user-attachments/assets/39aabccf-f48f-4a3d-9b04-890d59ef898c)
+# codigo 10
+![image](https://github.com/user-attachments/assets/f3b37b2a-ddff-4b5f-8314-c110330e3702)
+# ejecutado
+![image](https://github.com/user-attachments/assets/c628c8da-d999-4c02-991d-b4adbca43b33)
+# codigo 11
+![image](https://github.com/user-attachments/assets/29898680-d3d9-4431-a67e-0c762dc20f33)
+# ejecutado
+![image](https://github.com/user-attachments/assets/3e9b52c5-36b2-4b0f-a4e5-e59066f33372)
