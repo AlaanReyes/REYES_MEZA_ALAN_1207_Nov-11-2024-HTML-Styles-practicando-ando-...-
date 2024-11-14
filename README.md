@@ -45,3 +45,7 @@
 ![image](https://github.com/user-attachments/assets/29898680-d3d9-4431-a67e-0c762dc20f33)
 # ejecutado
 ![image](https://github.com/user-attachments/assets/3e9b52c5-36b2-4b0f-a4e5-e59066f33372)
+# codigo 12
+![image](https://github.com/user-attachments/assets/70010b64-108f-4b3e-a1dc-c187ad5e043a)
+# ejecutado
+![image](https://github.com/user-attachments/assets/880e4074-8106-4de8-849a-363c0be664d3)
